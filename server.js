@@ -85,14 +85,14 @@ const MODEL_MAPPING = {
   'glm-5.2': 'z-ai/glm-5.2',
   'mistral': 'mistralai/mistral-large-3-675b-instruct-2512',
   'mistral-turbo': 'mistralai/mistral-medium-3.5-128b',
-  'mistral-pro': 'mistralai/mistral-small-4-119b-2603',
+  'mistral-pro': 'mistralai/mistral-large-4-1t-a52b',
   'mistral-nemo': 'mistralai/mistral-nemotron',
   'mistral-fast': 'mistralai/ministral-14b-instruct-2512',
   'google-light': 'google/gemma-4-31b-it',
   'google-lightest': 'google/gemma-2-2b-it',
   'google-lighter': 'google/gemma-3n-e4b-it',
   'm2.7': 'minimaxai/minimax-m2.7',
-  'm3': 'minimaxai/minimax-m3',
+  'm3': 'minimaxai/minimax-m3.1-flash',
   'step-3.5-flash': 'stepfun-ai/step-5-preview',
   'step-3.7-flash': 'stepfun-ai/step-3.7-flash'
 };
